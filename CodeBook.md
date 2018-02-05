@@ -43,3 +43,13 @@ File with R code "run_analysis.R" perform 5 following steps (in accordance assig
 5. Appropriately labeling the data set with descriptive variable names
 
 6. Creating an independent tidy data set with the average of each variable for each activity and each subject.
+
+## About the variables
+1. x_train , contains the dataset of X_train.txt with 7352 samples x 561 features.
+2. y_train , contains the dataset of y_train.txt with 7352 samples x 561 features.
+3. x_test , contains the dataset of X_test.txt with 2947 samples x 561 features.
+4. y_test , contains the dataset of y_test.txt with 2947 samples x 561 features.
+5. subject_train, contains subject id of the individual samples for training.
+6. subject_test, contains subject id of the individual samples for testing.
+7. features, contains the dataset of 561 features taken.
+8. activityLabels, contains the dateset vector number for all 6 activities.
